@@ -1,0 +1,9 @@
+﻿{
+	"parent": "block/orientable",
+	"textures": {
+		"top": "enhancedbooks:blocks/blockBookPrinter_top",
+		"front": "blocks/planks_oak",
+		"side": "blocks/planks_oak"
+	}
+
+}

@@ -1,0 +1,8 @@
+﻿{
+	"parent": "block/orientable",
+	"textures": {
+		"top": "blocks/planks_oak",
+		"front": "blocks/bookshelf",
+		"side": "blocks/planks_oak"
+	}
+}

@@ -1,0 +1,7 @@
+﻿###-- Japanese --###
+tile.blockStorageShelf.name=保管用本棚
+tile.blockBookPrinter.name=印刷機
+item.itemEXPBook.name=経験値貯蔵本
+item.itemHollowBook.name=穴あき本
+item.itemFatBook.name=厚い本
+item.itemCookieBook.name=クッキーブック

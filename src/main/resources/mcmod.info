@@ -1,0 +1,16 @@
+[
+{
+	"modid": "enhancedbooks",
+	"name": "Enhanced Books",
+	"description": "Enhanced Books",
+	"version": "0.22d",
+	"mcversion": "1.8",
+	"url": "http://kanomiya.com/",
+	"updateUrl": "",
+	"authors": ["Kanomiya","sn0re"],
+	"credits": "Kanomiya, sn0re",
+	"logoFile": "",
+	"screenshots": [],
+	"dependencies": []
+}
+]

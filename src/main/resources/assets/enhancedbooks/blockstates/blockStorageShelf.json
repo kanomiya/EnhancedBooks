@@ -1,0 +1,8 @@
+﻿﻿{
+    "variants": {
+        "facing=north": { "model": "enhancedbooks:blockStorageShelf" },
+        "facing=south": { "model": "enhancedbooks:blockStorageShelf", "y": 180 },
+        "facing=west":  { "model": "enhancedbooks:blockStorageShelf", "y": 270 },
+        "facing=east":  { "model": "enhancedbooks:blockStorageShelf", "y": 90 }
+    }
+}
