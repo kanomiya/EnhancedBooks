@@ -1,1 +1,1 @@
-# EnhancedBooks-1.8
+# EnhancedBooks
